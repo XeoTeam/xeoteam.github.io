@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />  <title>XeoTeam</title>
+</head>
+<body>
+  <style>
+  body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height:200px;
+    background-color:white;
+    color: #fff;
+    position:fixed;
+    text-align: center;
+    align-items:center;
+    backdrop-filter:blur(15px);
+    border: 1px solid #ccc;
+  
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+
+  </style>
+    <header>
+      <i style="margin-top:75px;float:left; margin-left:-40%; position:fixed; color:black;" class="fas fa-bars fa-2x"></i>
+    
+          <div style="margin-top:20px; margin-left:1%;  "><img style="height:150px; width:150px;" src="logo.jpg"></div>
+    </header>
+    <main>
+        <h1 style="color:#444; font-size:35px; margin-left:100px; margin-top:250px; font-family:roboto;">Our services</h1>
+       
+      <a style="text-decoration:none;" href="https://wa.me/+233 53 234 9324?text=Hello,%20I%20%20need%20a website. "> <div style="  width: 90%;height:800px; background-color:white; color: #fff; margin-left:5%;text-align: center; align-items:center;border: 1px solid #ccc;border-radius:7px; margin-top:10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+        <img style="height:650px; width:100%;" src="web.jpg">
+        <h1 style="font-family:roboto; text-decoration:none; font-size:30px; margin-top:5.0%; margin-left:-48%; color:black;">Web Development</h1>
+        <i style="margin-top:-6%; margin-right:10%; float:right; color:black;" class="fas fa-arrow-right fa-2x"></i>
+   
+           </div></a>
+             <a style="text-decoration:none;" href="https://wa.me/+233 53 234 9324?text=Hello,%20I%20need%20a%20graphic design.">    <div style="  width: 90%;height:800px; background-color:white; color: #fff; margin-left:5%;text-align: center; align-items:center;border: 1px solid #ccc;border-radius:7px; margin-top:100px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+        <img style="height:650px; width:100%;" src="graphic-design.jpg">
+        <h1 style="font-family:roboto; font-size:30px; margin-top:5.0%; margin-left:-48%; color:black;">Graphic Design</h1>
+        <i style="margin-top:-6%; margin-right:10%; float:right; color:black;" class="fas fa-arrow-right fa-2x"></i>
+   
+           </div>
+               </a>
+           <a style="text-decoration:none;" href="https://wa.me/+233 53 234 9324?text=Hello,%20%20I%20need an%20Ai for my business.">  <div style="  width: 90%;height:800px; background-color:white; color: #fff; margin-left:5%;text-align: center; align-items:center;border: 1px solid #ccc;border-radius:7px; margin-top:100px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+        <img style="height:650px; width:100%;" src="ai.jpg">
+        <h1 style="font-family:roboto; font-size:30px; margin-top:5.0%; margin-left:-48%; color:black;">Ai Intergrations</h1>
+        <i style="margin-top:-7%; margin-right:10%; float:right; color:black;" class="fas fa-arrow-right fa-2x"></i>
+             </div>
+             </a>
+        
+         
+             </main>
+      <footer style="height:400px; width:100%; background:black; margin-top:90px;">
+        <div style="height:10px;"></div>
+        <h1 style="margin-top:50px; margin-left:40%; color:white;
+      color: white;
+  text-shadow: 2px 2px 4px #9ecaed;   ">Follow us on ;</h1>
+        <a href="" >  <div style="height:100px; width:100px; border-radius:50px; background:black; margin-top:50px;  border: 1px solid #dadada;  margin-left:10%;  outline: none; border-color: #9ecaed; box-shadow: 0 0 10px #9ecaed; "><i style="margin-top:23px; margin-left:23px; color:white;" class="fas fa-brands fa-facebook fa-3x"></i></div>
+          </a>
+       <a style="text-decoration:none;" href="https://wa.me/+233 53 234 9324?text=Hi,%20can%20I%20help%20you? "> <div style="  width: 90%;height:800px; background-color:white; color: #fff; margin-left:5%;text-align: center; align-items:center;border: 1px solid #ccc;border-radius:7px; margin-top:10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+       <div style="height:100px; width:100px; border-radius:50px; background:black; margin-top:-100px;  border: 1px solid #dadada;  margin-left:33.5%;  outline: none; border-color: #9ecaed; box-shadow: 0 0 10px #9ecaed; "><i style="margin-top:23px; margin-left:23px; color:white;" class="fas fa-brands fa-whatsapp fa-3x"></i></div>
+         </a>
+  <a style="text-decoration:none;" href="https://wa.me/+233 53 234 9324?text=Hi,%20can%20I%20help%20you? "> <div style="  width: 90%;height:800px; background-color:white; color: #fff; margin-left:5%;text-align: center; align-items:center;border: 1px solid #ccc;border-radius:7px; margin-top:10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+       <div style="height:100px; width:100px; border-radius:50px; background:black; margin-top:-100px;  border: 1px solid #dadada;  margin-left:53.5%;  outline: none; border-color: #9ecaed; box-shadow: 0 0 10px #9ecaed; "><i style="margin-top:23px; margin-left:23px; color:white;" class="fas fa-brands fa-tiktok fa-3x"></i></div>
+    </a>
+  <a style="text-decoration:none;" href="https://wa.me/+233 53 234 9324?text=Hi,%20can%20I%20help%20you? "> <div style="  width: 90%;height:800px; background-color:white; color: #fff; margin-left:5%;text-align: center; align-items:center;border: 1px solid #ccc;border-radius:7px; margin-top:10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+       <div style="height:100px; width:100px; border-radius:50px; background:black; margin-top:-100px;  border: 1px solid #dadada;  margin-left:77%;  outline: none; border-color: #9ecaed; box-shadow: 0 0 10px #9ecaed; "><i style="margin-top:23px; margin-left:23px; color:white;" class="fas fa-brands fa-youtube  fa-3x"></i></div>
+    </a>
+        <h1 style="margin-top:100px; margin-left:20%;color:white">©2024 xioteam All rights reserved</h1>
+      </footer>
+</body>
+</html>
